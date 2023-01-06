@@ -15,7 +15,7 @@
     "css-loader": "^3.0.0",
     "extract-loader": "^3.1.0",
     "file-loader": "^4.0.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "imagemin": "^6.0.0",
     "mini-css-extract-plugin": "^0.7.0",
     "node-sass": "^4.12.0",
@@ -48,7 +48,7 @@
     "@patternfly/patternfly": "^2.13.0",
     "@patternfly/react-core": "^3.46.1",
     "@patternfly/react-icons": "^3.10.2",
-    "@patternfly/react-styles": "^3.4.1",
+    "@patternfly/react-styles": "^3.7.14",
     "copy-webpack-plugin": "^5.0.3",
     "sass-loader": "^7.1.0"
   },
